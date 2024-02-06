@@ -67,7 +67,7 @@ The following dependencies  are required on your sever or pc.
  ```
  > then Install the dependencies using composer
  ```
-$ composer installl
+$ composer install
  ```
 > conntect your datebase to project using .ENV file 
  ```
